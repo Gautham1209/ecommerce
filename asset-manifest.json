@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.eb5b70b7.css",
+    "main.js": "/ecommerce/static/js/main.8e7500a2.js",
+    "static/media/Apple.jpg": "/ecommerce/static/media/Apple.fa30f554b8b7cbc2df6c.jpg",
+    "static/media/Mango.jpg": "/ecommerce/static/media/Mango.dc7e81be437723d3dce8.jpg",
+    "static/media/Blackberries.png": "/ecommerce/static/media/Blackberries.8c600f9e39e6f0456fe1.png",
+    "static/media/Yogurt.png": "/ecommerce/static/media/Yogurt.703b25c2655266f3a65b.png",
+    "static/media/Strawberries.png": "/ecommerce/static/media/Strawberries.e56bbcdb3c36cd74872a.png",
+    "static/media/Cart.svg": "/ecommerce/static/media/Cart.50f42d5d297a9ea0309dfae46981328a.svg",
+    "static/media/arrowBlack.svg": "/ecommerce/static/media/arrowBlack.0722303fac5d22a8c9220aeafac756dc.svg",
+    "static/media/arrowWhite.svg": "/ecommerce/static/media/arrowWhite.13b4196a633edcfd2706d8cfb49e87c9.svg",
+    "index.html": "/ecommerce/index.html",
+    "main.eb5b70b7.css.map": "/ecommerce/static/css/main.eb5b70b7.css.map",
+    "main.8e7500a2.js.map": "/ecommerce/static/js/main.8e7500a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5b70b7.css",
+    "static/js/main.8e7500a2.js"
+  ]
+}
