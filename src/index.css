@@ -1,0 +1,56 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.custom-scrollbar {
+  max-height: 100vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary-blue, #5DA9E9) transparent;
+
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 10px;
+  background-color: rgb(169, 168, 168);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--secondary-blue, #5DA9E9);
+  border-radius: 4px;
+  
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary-blue, #5DA9E9);
+  
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  display: none;
+  
+}
+
+/* Hide the scrollbar */
+.hideScrollBar {
+  scrollbar-width: thin; 
+  scrollbar-color: transparent transparent; 
+  -ms-overflow-style: none;
+}
+
+.hideScrollBar::-webkit-scrollbar {
+  width: 6px; 
+}
+
+.hideScrollBar::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+.hideScrollBar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.selectedSvg {
+  fill: white;
+}
